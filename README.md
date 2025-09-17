@@ -247,3 +247,5 @@ For support and questions:
 **Note**: This application is designed for educational and research purposes. Always ensure you have the right to process and analyze the documents you upload.
 
 <!-- Updated: 2025-09-16 -->
+
+<!-- Updated: 2025-09-16 -->
