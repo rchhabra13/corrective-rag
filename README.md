@@ -33,8 +33,8 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that implements a co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/corrective_rag
+   git clone https://github.com/rchhabra13/corrective_rag.git
+   cd corrective_rag
    ```
 
 2. **Install dependencies**
